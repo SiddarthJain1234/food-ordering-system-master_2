@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Annapurna</string>
+    <string name="title_activity_order_details">orderDetails</string>
+    <string name="about">Siddarth /n
+fb.com/ashik.rabbni</string>
+    <string name="about_canteen">About Canteen</string>
+</resources>
