@@ -1,4 +1,4 @@
-package com.ashikrabbani.oresturent;
+package com.Siddarth.annapurna;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
