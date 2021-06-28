@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ashikrabbani.oresturent">
+    package="com.Siddarth.annapurna">
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.SEND_SMS"/>
@@ -12,7 +12,7 @@
 
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.Siddarth.annapurna.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".orderDetails"
+            android:name="com.Siddarth.annapurna.orderDetails"
             android:label="@string/title_activity_order_details"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
