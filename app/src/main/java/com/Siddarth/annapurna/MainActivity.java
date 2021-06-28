@@ -281,7 +281,7 @@ public class MainActivity extends Activity {
 
 
     }
-
+//
     public void banner_about(View view) {
 
         final Dialog dialog = new Dialog(this); // Context, this, etc.
